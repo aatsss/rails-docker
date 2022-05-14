@@ -9,7 +9,7 @@ Things you may want to cover:
 - amd64/ruby:2.6.3
 
 ## System dependencies
-- M1 mac
+- intel mac (m1 mac だとエラーだった)
 
 ## Configuration
 - config/environments/debelopment.rb を `config.file_watcher = ActiveSupport::FileUpdateChecker` に変更
