@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/atsushi/mypractice/ruby_lesson/myapp'
+make: Leaving directory `/Users/atsushi/mypractice/ruby_lesson/myapp'
+ 
+Makefile:5: *** missing separator.  Stop.
+
