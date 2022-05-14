@@ -1,9 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+独習 Ruby on Rails チュートリアル
 
 ## Ruby version
 - amd64/ruby:2.6.3
